@@ -4,3 +4,4 @@
 }
 
 module.exports = { authenticate };
+// Auth middleware replacement fixture
