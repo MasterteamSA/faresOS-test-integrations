@@ -1,2 +1,3 @@
-# faresOS-test-integrations
-FaresOS QA GitHub integration fixture repo
+﻿# faresOS-test-integrations
+
+QA fixture repository for FaresOS Phase 1B-2 GitHub contracts.

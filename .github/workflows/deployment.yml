@@ -1,0 +1,12 @@
+﻿name: deployment
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Phase 1B-2 GitHub fixture failing deployment"
+      - run: exit 1
