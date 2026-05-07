@@ -4,3 +4,4 @@
 }
 
 module.exports = { authenticate };
+// Payment processor replacement fixture
